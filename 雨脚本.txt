@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostDuckyy/UI-Libraries/main/Apple%20Library/source.lua"))()
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
 local Window = OrionLib:MakeWindow({Name = "雨天", HidePremium = false, SaveConfig = false, IntroText = "雨天脚本", ConfigFolder = "雨天脚本"})
 
 OrionLib:MakeNotification({
