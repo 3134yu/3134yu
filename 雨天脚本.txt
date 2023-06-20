@@ -12,7 +12,7 @@ if a=="dkfkfkfjfkfjdj"then
 _G.she=true
 elseif a=="ljgjhfsfhcdf"then
 _G.she=true
-elseif a=="用户名"then
+elseif a==”yu_tian"then
 _G.she=true
 elseif a=="用户名"then
 _G.she=true
