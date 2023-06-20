@@ -1,41 +1,41 @@
-local CoreGui = game:GetService("StarterGui")
+本地CoreGui=游戏：GetService("StarterGui")
 
-CoreGui:SetCore("SendNotification", {
-    Title = "确认身份",
-    Text = "正在验证....",
-    Duration = 3, 
+CoreGui:SetCore("SendNotification"，{
+title="确认身份"，
+text="正在验证...."，
+持续时间=3，
 })
 
-local a=tostring(game.Players.LocalPlayer.Character);
+当地的a=t字符串(游戏。玩家。本地玩家。性格)；
 
-if a=="dkfkfkfjfkfjdj"then
+如果a=="dkfkfkfjfkfjdj"则
 _G.she=true
-elseif a=="ljgjhfsfhcdf"then
+否则，如果a=="ljgjhfsfhcdf"，则
 _G.she=true
-elseif a==”yu_tian"then
+else if a=="yu_tiana"则
 _G.she=true
-elseif a=="用户名"then
+elseif a=="用户名"则
 _G.she=true
-elseif a=="用户名"then
+elseif a=="用户名"则
 _G.she=true
-elseif a=="用户名"then
+elseif a=="用户名"则
 _G.she=true
-elseif a=="用户名"then
+elseif a=="用户名"则
 _G.she=true
-elseif a=="用户名"then
+elseif a=="用户名"则
 _G.she=true
-elseif a=="用户名"then
+elseif a=="用户名"则
 _G.she=true
-elseif a=="用户名"then
+elseif a=="用户名"则
 _G.she=true
-elseif a=="用户名"then
+elseif a=="用户名"则
 _G.she=true
-end
-if _G.she==true then
-    local CoreGui = game:GetService("StarterGui")
+结束
+如果_G.She==true，则
+本地CoreGui=游戏：GetService("StarterGui")
 
-CoreGui:SetCore("SendNotification", {
-    Title = "验证结果",
+CoreGui:SetCore("SendNotification"，{
+title="验证结果"，
     Text = a.."验证身份成功",
     Duration = 5,
 })
